@@ -16,7 +16,7 @@ The data comes from the U.S. International Airline Traffic Statistics dataset an
 
 ---
 
-## 🧠 ML Model
+## 🧠 Machine Learning Model
 
 We used a Recurrent Neural Network (LSTM) to:
 - Capture long-term trends and seasonality
@@ -26,11 +26,10 @@ Steps:
 1. Data cleaning and monthly aggregation
 2. Scaling with `MinMaxScaler`
 3. Sequence creation for time-series modeling
-4. LSTM model built using TensorFlow/Keras
+4. LSTM model built using TensorFlow
 5. Forecast generation and plotting
 
 ---
-
 
 ## 📁 Files
 
