@@ -1,6 +1,6 @@
-# ✈️ Delta Airlines International Traffic Forecasting (LSTM Model)
+# ✈️ Delta Airlines Future Traffic Forecasting (LSTM Model)
 
-This project uses an LSTM (Long Short-Term Memory) neural network to forecast monthly international traffic for **Delta Airlines** using historical data from 1990 to 2024.
+This project uses an LSTM (Long Short-Term Memory) neural network to forecast monthly traffic for **Delta Airlines** using historical data from 1990 to 2024.
 
 We analyze seasonal trends, detect patterns, and predict traffic for the next 12 months.
 
