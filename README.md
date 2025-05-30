@@ -8,7 +8,7 @@ We analyze seasonal trends, detect patterns, and predict traffic for the next 12
 
 ## 📊 Dataset
 
-The data comes from the U.S. International Airline Traffic Statistics dataset and includes:
+The data comes from the U.S. Airline Traffic Statistics dataset and includes:
 - Airline name
 - Traffic type (passenger, freight, etc.)
 - Scheduled vs charter flights
