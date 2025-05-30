@@ -48,9 +48,9 @@ Steps:
 ---
 ## 📈 Evaluation Metrics
 
-- The model tracks real traffic closely, even during pandemic dips.
-- Forecasted traffic shows a steady upward trend.
-- Visualization includes both historical and forecasted data.
+- RMSE: 456,716.49
+- MAE: 313,446.80
+- R² Score: 0.8857
 
 ---
 ## 🙋‍♂️ Author
