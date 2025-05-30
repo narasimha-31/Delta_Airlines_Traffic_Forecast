@@ -31,6 +31,14 @@ Steps:
 
 ---
 
+
+## 📁 Files
+
+- `LSTM Model.ipynb` — Full code
+- `delta_airlines_forecast.csv` — Forecast output
+- `README.md` — This file :)
+
+---
 ## 🔮 Results
 
 - The model tracks real traffic closely, even during pandemic dips.
@@ -38,17 +46,15 @@ Steps:
 - Visualization includes both historical and forecasted data.
 
 ---
+## 🔮 Results
 
-## 📁 Files
-
-- `notebook.ipynb` — Full code
-- `delta_airlines_forecast.csv` — Forecast output
-- `README.md` — This file :)
+- The model tracks real traffic closely, even during pandemic dips.
+- Forecasted traffic shows a steady upward trend.
+- Visualization includes both historical and forecasted data.
 
 ---
-
 ## 🙋‍♂️ Author
 
-Built by Narasimha Royal as part of a learning journey into time series forecasting, deep learning, and real-world data analysis.
+Narasimha Royal 
 
 ---
