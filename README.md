@@ -46,7 +46,7 @@ Steps:
 - Visualization includes both historical and forecasted data.
 
 ---
-## 🔮 Evaluation Metrics
+## 📈 Evaluation Metrics
 
 - The model tracks real traffic closely, even during pandemic dips.
 - Forecasted traffic shows a steady upward trend.
