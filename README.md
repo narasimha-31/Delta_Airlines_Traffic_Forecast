@@ -17,7 +17,7 @@ The data comes from the U.S. Airline Traffic Statistics dataset and includes:
 
 ---
 
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 We used a Recurrent Neural Network (LSTM) to:
 - Capture long-term trends and seasonality
