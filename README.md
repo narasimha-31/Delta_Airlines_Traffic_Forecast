@@ -32,7 +32,7 @@ Steps:
 
 
 ---
-## 🔮 Results
+## Results
 
 - The model tracks real traffic closely, even during pandemic dips.
 - Forecasted traffic shows a steady upward trend.
