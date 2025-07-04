@@ -2,7 +2,7 @@
 
 This project uses an LSTM (Long Short-Term Memory) neural network to forecast passenger traffic for **Delta Airlines** using historical data from 1990 to 2024.
 
-We analyze seasonal trends, detect patterns, and predict traffic for the next 12 months(2025).
+It analyzes seasonal trends, detect patterns, and predict traffic for the next 12 months(2025).
 
 ---
 
