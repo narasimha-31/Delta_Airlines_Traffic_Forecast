@@ -30,13 +30,6 @@ Steps:
 4. LSTM model built using TensorFlow
 5. Forecast generation and plotting
 
----
-
-## 📁 Files
-
-- `LSTM Model.ipynb` — Full code
-- `delta_airlines_forecast.csv` — Forecast output
-- `README.md` — This file :)
 
 ---
 ## 🔮 Results
