@@ -13,6 +13,7 @@ The data comes from the U.S. Airline Traffic Statistics dataset and includes:
 - Traffic type (passenger, freight, etc.)
 - Scheduled vs charter flights
 - Years (1990–2024)
+- and many more
 
 ---
 
